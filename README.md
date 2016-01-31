@@ -1,6 +1,8 @@
 # dismathportfolio-harleyorines
 dismathportfolio-harleyorines created by Classroom for GitHub
+
 Stuff I Learned...
+
 ## WEEK 1:
 
 - DisMath deals more with logical truths and that it requires minimal computations.
