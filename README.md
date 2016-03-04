@@ -30,3 +30,17 @@ Stuff I Learned...
 - Rules of Inference are yet another set of tools for proving.
 - We can use atomic propositions to break down a problem according to important keywords then proceed with proving.
 - We were introduced to the methods of proving such as direct proof and proof by contrapositive.
+
+## WEEK 5:
+
+- For week 5, we started off from where the discussion ended from the previous week and discussed other proving methods.
+- Proving via contradiction is done by showing that the negation of a premise leads to a contradiction.
+- I have previously encountered mathematical induction in my ENGALG2 course. It consists of the basis step and inductive step.
+- Recursive functions can be tricky at first. All there is to remember is that the next value for the function depends on the previous value.
+
+## WEEK 6:
+
+- The basics regarding sets.
+- I agree with our professor telling us that this particular session is a temporary breather from all the difficult topics so far.
+- Union, intersection, and symmetrical difference
+- Set identities. I told myself that in order to learn these new set of rules, I must indoctrinate myself with either logical equivalences or set identities then make do with the other by means of their patterns. This works because of their similarity.
