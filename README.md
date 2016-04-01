@@ -44,3 +44,39 @@ Stuff I Learned...
 - I agree with our professor telling us that this particular session is a temporary breather from all the difficult topics so far.
 - Union, intersection, and symmetrical difference
 - Set identities. I told myself that in order to learn these new set of rules, I must indoctrinate myself with either logical equivalences or set identities then make do with the other by means of their patterns. This works because of their similarity.
+
+## WEEK 7
+
+- A function is a relationship of sets of variables wherein only one element is assigned to each input value.
+- The range of a function are the actual occuring values.
+- The domain describes input while codomain describes all possible output.
+- The three types of functions; injective, surjective, and bijective (I learned that it is best to use these names for the types because one-to-one and one-to-one correspondence can lead to a problem of ambiguity).
+
+## WEEK 8
+
+- An algorithm is a finite set of defined instructions intended for carrying out computations and processes.
+- A pseudocode can be considered as a informal piece of programming code which is more suited to human reading.
+- In creating an algorithm, it is a requisite to identify the preconditions and postconditions.
+- People who are well-versed in programming may actually have an upper hand when it comes to these lessons.
+
+## WEEK 9
+
+- Search Algorithms and Sorting Algorithms
+- Linear Search involves scanning a list for the element input and showing the location / index once a match is found. Outputs "cannot be found" or a negative value when the element input we are looking for is not in the list.
+- Binary Search repeatedly splits the list based on the element input and shows the location / index once the element is found in the list. That is, if the list cannot be further split.
+- That dance video for bubble sort.
+- In bubble sorting we have comparisons of adjacent elements in which one loop of comparisons sorts at least one element in its proper position. This is done until all elements are sorted.
+- Insertion sort. :3
+- Greedy algorithm makes use of the best possible next step in a process or computation.
+
+## WEEK 10
+
+- The time complexity of an algorithm tells us of its efficiency. The question being asked here is how many steps does an algorithm take before arriving at an output?
+- A less complex program is always favored more than a more complex program.
+- For growth of functions, the big guys were discussed (BIG-O, BIG-OMEGA, BIG-THETA).
+- Big O notation is the upper bound of a function, while Big Omega is the lower bound. Big Theta is both the lower and upper bound.
+- Perhaps a useful technique in determining the complexity of a function is to get hold of its degree, which can give us an idea of its upper and lower bound. We provide witness C and k to prove our claim.
+- Comparisons made in an algorithm can be traced and counted altogether using an iteration table.
+
+## WEEK 11
+
