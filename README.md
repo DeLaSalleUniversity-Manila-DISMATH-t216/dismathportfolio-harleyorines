@@ -80,3 +80,17 @@ Stuff I Learned...
 
 ## WEEK 11
 
+- The third quiz will be different from the previous ones as it tests spatial intelligence and understanding with visual representations.
+- A graph is a structure of nodes with edges serving as connections between them.
+- Definition of terms regarding graph theory (degree, pendant, isolated node etc)
+- A technique to remember Euler and Hamilton is E Edges for the former and N Nodes for the latter.
+- Using Kuratowski's theorem is the quickest way to tell if a graph is planar or nonplanar. I am having difficulties with using the theorem though.
+- To determine the number of regions resulting from a graph, we use Euler's Formula.
+
+## WEEK 12
+
+- In graph coloring, no two adjacent island or nodes can share the same color.
+- We aim to have a minimal number of colors by recycling.
+- Terms and concepts about trees were discussed. (Parent, child, leaf, root, ancestors,etc.)
+- The concept of modeling computation is essential for those of us engineers.
+- Automata theory and finite state machines look intimidating at first because of the information overload from graphs, but will gradually become easier as you trace the state transitions and know the reason behind each step.
