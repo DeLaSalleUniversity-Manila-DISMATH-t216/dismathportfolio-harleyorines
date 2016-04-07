@@ -1,6 +1,9 @@
 # dismathportfolio-harleyorines
 dismathportfolio-harleyorines created by Classroom for GitHub
 
+Harley M. Orines DISMATH XEE1
+11402423
+
 Stuff I Learned...
 
 ## WEEK 1:
